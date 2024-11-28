@@ -122,20 +122,11 @@ listar diretorio <nomeDiretorio>
 Exemplo:
 listar diretorio documentos
 
-markdown
-Copiar código
-
 6. **Sair do Shell**
 sair
 
-markdown
-Copiar código
-
 7. **Finalizar o Programa**
 finalizar
-
-yaml
-Copiar código
 
 ---
 
@@ -146,16 +137,14 @@ Copiar código
 2. Após o login, execute o comando:
 criar arquivo meusDocumentos/nota.txt
 
-markdown
-Copiar código
+
 3. O arquivo será criado com permissões associadas ao usuário logado.
 
 ### Exemplo 2: Apagar um Diretório com Força
 1. Após login, use:
 apagar diretorio projetos --force
 
-yaml
-Copiar código
+
 2. O diretório "projetos" e seu conteúdo serão apagados, independentemente de estar vazio.
 
 ---
