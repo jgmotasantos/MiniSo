@@ -83,41 +83,33 @@ criar diretorio <nomeDiretorio>
 Exemplo:
 criar diretorio documentos
 
-markdown
-Copiar código
 
 2. **Criar um Arquivo**
 criar arquivo <nomeArquivo>
 
-makefile
-Copiar código
+
 Exemplo:
 criar arquivo documentos/relatorio.txt
 
-markdown
-Copiar código
+
 
 3. **Apagar um Arquivo**
 apagar arquivo <nomeArquivo>
 
-makefile
-Copiar código
+
 Exemplo:
 apagar arquivo documentos/relatorio.txt
 
-markdown
-Copiar código
+
 
 4. **Apagar um Diretório**
 apagar diretorio <nomeDiretorio>
 
-makefile
-Copiar código
+
 Exemplo:
 apagar diretorio documentos
 
-javascript
-Copiar código
+
 
 - Use a flag `--force` para apagar diretórios não vazios:
   ```
@@ -127,8 +119,6 @@ Copiar código
 5. **Listar Conteúdo de um Diretório**
 listar diretorio <nomeDiretorio>
 
-makefile
-Copiar código
 Exemplo:
 listar diretorio documentos
 
